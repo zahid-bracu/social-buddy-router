@@ -1,0 +1,7 @@
+.shopContainer{
+    display: flex;
+}
+
+.productContainer{
+    width: 100%;
+}
